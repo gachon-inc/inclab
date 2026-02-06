@@ -1,0 +1,6 @@
+
+{
+  "name": "Gachon INC Lab - Intelligence & Networking Computing",
+  "description": "A modern, high-performance web portal for the Intelligence & Networking Computing Laboratory at Gachon University, featuring AI research highlights, member profiles, and an integrated AI research assistant.",
+  "requestFramePermissions": ["camera"]
+}
